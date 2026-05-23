@@ -10,5 +10,3 @@ def insercao(lista):
         lista[decremento + 1] = valor_atual
         
     return lista
-
-# Teste de push
