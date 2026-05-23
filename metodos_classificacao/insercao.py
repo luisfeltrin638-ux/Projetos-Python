@@ -1,7 +1,7 @@
-# Não adaptado para classificar strings ou retornar a lista em classficação invertida
+# Não adaptado para classificar adequadamente strings ou retornar a lista em classficação invertida
 def insercao(lista):
     valor_atual = 0
-    
+
     for i in range(1, len(lista)):
         valor_atual = lista[i]
         j = i - 1
