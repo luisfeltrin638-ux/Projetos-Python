@@ -1,11 +1,11 @@
-# Não adaptado para classificar adequadamente strings ou retornar a lista em classficação invertida
+# Não adaptado para classificar adequadamente strings, retornar a lista em classificação invertida ou classificar da esquerda para a direita.
 def bolha(lista):
     nao_classificados = len(lista)
     i = 0
     i_antigo = i
-    verificacao_organizado = 0
+    verificacao_organizado = None
 
-    while i < nao_classificados:
+    while nao_classificados > i and verificacao_organizado != 0:
 
         verificacao_organizado = 0
         j = i + 1 
@@ -29,7 +29,7 @@ def bolha(lista):
         i = i_antigo # correção da variável "i" pelo backup "i_antigo".
         nao_classificados -= 1 # quantia de não classificados decresce em 1.
 
-        if verificacao_organizado == 0: # verificação se houve troca de elementos na lista, pois o método consegue identificar se a lista já está classificada.
-            i = nao_classificados
+        # verificação se houve troca de elementos na lista, pois o método consegue identificar se a lista já está classificada.
+
 
     return lista
