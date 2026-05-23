@@ -5,7 +5,7 @@ def bolha(lista):
     i_antigo = i
     verificacao_organizado = None
 
-    while nao_classificados > i and verificacao_organizado != 0:
+    while nao_classificados > i and verificacao_organizado != 0: # verificação se houve troca de elementos na lista, pois o método consegue identificar se a lista já está classificada.
 
         verificacao_organizado = 0
         j = i + 1 
@@ -28,8 +28,5 @@ def bolha(lista):
  
         i = i_antigo # correção da variável "i" pelo backup "i_antigo".
         nao_classificados -= 1 # quantia de não classificados decresce em 1.
-
-        # verificação se houve troca de elementos na lista, pois o método consegue identificar se a lista já está classificada.
-
 
     return lista
