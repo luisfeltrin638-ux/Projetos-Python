@@ -1,0 +1,2 @@
+def selecao(lista):
+    
