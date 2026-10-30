@@ -13,8 +13,8 @@ Python 3.13.14
 # Estados do métodos:
 | Método de classificação | Explicação | código |
 | :--: | :--: | :--: |
-| Inserção | &#2705 | &#2705 |
-| Seleção | &#2705 | &#2705 |
-| Bolha | &#2705 | &#2705 |
-| Merge | &#10060 | &#10060 |
-| Quick Sort | &#10060 | &#10060 |
+| Inserção | ✅ | ✅ |
+| Seleção | ✅ | ✅ |
+| Bolha | ✅ | ✅ |
+| Merge | ❌ | ❌ |
+| Quick Sort | ❌ | ❌ |
