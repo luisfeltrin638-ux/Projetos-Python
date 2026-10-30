@@ -11,14 +11,14 @@ O projeto se apresenta em estado inicial e amador, o que pode evidenciar erros o
   <dl>
     <dt>Pandas</dt>
     <dd>
-      Biblioteca *não padrão* do Python para tratamento estatístico e de base de dados. *Como abaixar:*
+      Biblioteca <em>não padrão</em> do Python para tratamento estatístico e de base de dados. <strong>Como abaixar:</strong>
       <ol>
         <li>Acesse o terminar Powershell ou Prompt do comando</li>
-        <li>Digite e submeta via CLI: **pip install pandas**</li>
-        <li>Use a biblioteca: **import pandas as pd** (observe que o trecho final (*as pd*) representa um *apelido* para que se digite menos e é um consenso da comunidade.</li>
+        <li>Digite e submeta via CLI: <em>pip install pandas</em>em></li>
+        <li>Use a biblioteca: <em>import pandas as pd</em> (observe que o trecho final (<strong>as pd</strong>) representa um <strong>apelido</strong> para que se digite menos, além de ser um consenso da comunidade.</li>
       </ol>
     </dd>
     <dt>Jypiter</dt>
-    <dd>Representa uma extensão do **Visual Studio Code** cujo objetivo consiste em delimitar blocos de comandos. É possível usar o **Google Colabs** igualmente</dd>
+    <dd>Representa uma extensão do <em>Visual Studio Code</em> cujo objetivo consiste em delimitar blocos de comandos. É possível usar o <em>Google Colabs</em> igualmente</dd>
   </dl>
 </dl>
