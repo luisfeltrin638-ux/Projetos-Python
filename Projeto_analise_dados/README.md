@@ -24,10 +24,12 @@ O projeto se apresenta em estado inicial e amador, o que pode evidenciar erros o
       <li>Vá na aba de instalação de extensões</li>
       <li>Digite e submeta <strong>Jypiter</strong></li>
       <li>
-        Procure pela extensão criada pela <em>Microsoft</em> ![Texto alternativo da imagem](./jypiter-web.webp)
+        Procure pela extensão criada pela <em>Microsoft</em> 
       </li>
       <li>Clique em <strong>Instalar</strong></li>
       <li>Para usá-lo, crie um arquivo seguido pela extensão: <em>.ipynb</em></li>
     </ol>
   </dl>
 </dl>
+
+![Texto alternativo da imagem](./jypiter-web.webp)
