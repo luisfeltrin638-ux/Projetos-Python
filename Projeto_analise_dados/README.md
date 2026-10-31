@@ -42,5 +42,12 @@ O projeto se apresenta em estado inicial e amador, o que pode evidenciar erros o
   </ul>
 </ol>
 
-#Bibliografias:
-Caso tenha interesse em estatística recomendo esta bibliografia: <q><a href="#">Estatística Básica Morettin, Pedro Alberto,. Estatística Básica/Pedro A. Morettin, Wilton O. Bussab. –. 6. ed. – São Paulo : Saraiva, 2010.</a></q>
+# Referência Bibliográfica:
+
+Este projeto de análise de dados foi desenvolvido com base nos conceitos da seguinte obra:
+
+*   **Livro:** Estatística Básica
+*   **Autores:** Pedro A. Morettin & Wilton de O. Bussab
+*   **Editora:** Saraiva Uni (9ª Edição, 2017)
+
+> ⚠️ **Nota:** Por questões de direitos autorais, o livro base não está incluso neste repositório. Para reproduzir as análises, certifique-se de utilizar a sua própria cópia da obra. Os scripts de suporte em R originais dos autores também podem ser consultados oficialmente no [site do IME-USP](https://usp.br).
