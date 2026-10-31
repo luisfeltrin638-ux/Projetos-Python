@@ -32,4 +32,4 @@ O projeto se apresenta em estado inicial e amador, o que pode evidenciar erros o
   </dl>
 </dl>
 
-![Texto alternativo da imagem](./jypiter-web.webp)
+![Texto alternativo da imagem](./jupyter-web.webp)
