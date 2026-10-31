@@ -39,6 +39,7 @@ O projeto se apresenta em estado inicial e amador, o que pode evidenciar erros o
   <li>Aprimorar as análises:</li>
   <ul>
     <li>Compreender quais habilidades estes projetos exigem e estudar sobre os tópicos, sobretudo estatísticos.</li>
+    <li>Consultar dados empresariais para realizar inferências realistas</li>
   </ul>
 </ol>
 
