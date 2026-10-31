@@ -15,7 +15,7 @@ O projeto se apresenta em estado inicial e amador, o que pode evidenciar erros o
       <ol>
         <li>Acesse o terminar Powershell ou Prompt do comando</li>
         <li>Digite e submeta via CLI: <em>pip install pandas</em></li>
-        <li>Use a biblioteca: <abbr title="observe que o trecho final (<strong>as pd</strong>) representa um <strong>apelido</strong> para que se digite menos, além de ser um consenso da comunidade"><em>import pandas as pd</em></abbr>.</li>
+        <li>Use a biblioteca: <em>import pandas as pd</em> (observe que o trecho final (<strong>as pd</strong>) representa um <strong>apelido</strong> para que se digite menos, além de ser um consenso da comunidade).</li>
       </ol>
     </dd>
     <dt>Jupyter</dt>
@@ -38,6 +38,9 @@ O projeto se apresenta em estado inicial e amador, o que pode evidenciar erros o
 <ol>
   <li>Aprimorar as análises:</li>
   <ul>
-    <li>Compreender quais habilidades estes projetos exigem e estudar sobre estatística. Abaixe a bibliografia: <q><a href="#">Estatística Básica Morettin, Pedro Alberto,. Estatística Básica/Pedro A. Morettin, Wilton O. Bussab. –. 6. ed. – São Paulo : Saraiva, 2010.</a></q></li>
+    <li>Compreender quais habilidades estes projetos exigem e estudar sobre os tópicos, sobretudo estatísticos.</li>
   </ul>
 </ol>
+
+#Bibliografias:
+Caso tenha interesse em estatística recomendo esta bibliografia: <q><a href="#">Estatística Básica Morettin, Pedro Alberto,. Estatística Básica/Pedro A. Morettin, Wilton O. Bussab. –. 6. ed. – São Paulo : Saraiva, 2010.</a></q>
